@@ -68,7 +68,7 @@ Rajesh Gangey is an ML enthusiast with a strong interest in Machine Learning, Ar
 
 ## 📊 GitHub Stats
 
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mukesh-Gangey&show_icons=true&theme=tokyonight)
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshgangey&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -80,4 +80,4 @@ Rajesh Gangey is an ML enthusiast with a strong interest in Machine Learning, Ar
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=Mukesh-Gangey&color=blue)
+![](https://komarev.com/ghpvc/?username=rajeshgangey&color=blue)

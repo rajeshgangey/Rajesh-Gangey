@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajesh Gangey</h1>
-<h3 align="center">**About Me:**
+<h3 align="center">
 Rajesh Gangey is an ML enthusiast with a strong interest in Machine Learning, Artificial Intelligence, and Data Analytics. He enjoys building practical projects and continuously improving his technical and problem-solving skills.
  </h3>
 
@@ -15,7 +15,7 @@ Rajesh Gangey is an ML enthusiast with a strong interest in Machine Learning, Ar
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://github.com/Rajesh-Gangey">
+<a href="https://github.com/rajeshgangey/Rajesh-Gangey">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

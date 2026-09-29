@@ -65,19 +65,3 @@ Rajesh Gangey is an ML enthusiast with a strong interest in Machine Learning, Ar
 - AI for Wireless Communication
 
 ---
-
-## 📊 GitHub Stats
-
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshgangey&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mukesh-Gangey&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=rajeshgangey&color=blue)

@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mukesh Gangey</h1>
-<h3 align="center">ECE Student | AI/ML Enthusiast | MATLAB & Python </h3>
+<h1 align="center">Hi 👋, I'm Rajesh Gangey</h1>
+<h3 align="center">**About Me:**
+Rajesh Gangey is an ML enthusiast with a strong interest in Machine Learning, Artificial Intelligence, and Data Analytics. He enjoys building practical projects and continuously improving his technical and problem-solving skills.
+ </h3>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Electronics & Communication Engineering Student
 - 🤖 Passionate about Artificial Intelligence & Machine Learning
 - 📡 Interested in Wireless Communication & Signal Processing
 - 🧠 Learning Deep Learning and CNN
@@ -14,7 +15,7 @@
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://github.com/Mukesh-Gangey">
+<a href="https://github.com/Rajesh-Gangey">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
